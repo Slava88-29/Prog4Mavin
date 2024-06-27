@@ -15,9 +15,9 @@
     </properties>
 
     <dependencies>
-       <dependency>
+    <dependency>
     <groupId>org.example</groupId>
-     <artifactId>Project3</artifactId>
+    <artifactId>Project3</artifactId>
     <version>5.7.0</version>
     <scope>test</scope>
 </project>
